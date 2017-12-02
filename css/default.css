@@ -9,7 +9,8 @@ body {
 {
     display: block;
     margin: 0 auto;
-    max-width: 500px;
+    max-width: 600px;
+    padding-right: 50px;
 }
 
 #logo-v
@@ -21,8 +22,14 @@ body {
 
 #description
 {
-    margin-top: 30px;
+    margin-top: 50px;
     text-align: center;
+    font-size: 2.3em;
+}
+
+#description-typed
+{
+    color: #444;
 }
 
 @keyframes v-draw

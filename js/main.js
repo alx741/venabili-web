@@ -1,4 +1,8 @@
-var typed = new Typed('#description', {
-    strings: ["The programmers keyboard", "The hackers keyboard", "The awasome keyboard."],
-    typeSpeed: 80
+var typed = new Typed('#description-typed', {
+    strings: ["The keyboard", "The programmers keyboard", "The hackers keyboard", "The awesome keyboard."],
+    typeSpeed: 80,
+    smartBackspace: true,
+    typeSpeed: 80,
+    backSpeed: 80,
+    backDelay: 1300,
 });
