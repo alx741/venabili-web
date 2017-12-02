@@ -1,10 +1,7 @@
---------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
 
-
---------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
     match "images/*" $ do
@@ -49,7 +46,7 @@ main = hakyll $ do
             posts <- recentFirst =<< loadAll "posts/*"
             let indexCtx =
                     listField "posts" postCtx (return posts) `mappend`
-                    constField "title" "Home"                `mappend`
+                    constField "title" "Venabili Keyboard"                `mappend`
                     defaultContext
 
             getResourceBody
@@ -60,7 +57,6 @@ main = hakyll $ do
     match "templates/*" $ compile templateBodyCompiler
 
 
---------------------------------------------------------------------------------
 postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`

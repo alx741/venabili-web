@@ -1,10 +1,7 @@
----
-title: Venabili Keyboard
----
-
-<svg id="logo" version="1.1" viewBox="0 0 210 60" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210mm" height="60mm" version="1.1" viewBox="0 0 210 60" xmlns="http://www.w3.org/2000/svg">
     <g transform="matrix(.8806 0 0 .87883 12.546 -121.11)">
-        <g id="logo-id" transform="translate(86.532,13.959)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6145">
+        <g transform="translate(86.532,13.959)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6145">
             <path d="m-59.134 171.72-4.2333 7.3323 4.2333 7.3324 4.2333-7.3324z"/>
             <path d="m-83.083 130.24h-8.4667l25.665 44.452 4.2333-7.3323z"/>
             <path d="m-35.186 130.24h8.4667l-25.665 44.452-4.2333-7.3323z"/>
@@ -12,8 +9,3 @@ title: Venabili Keyboard
         <text x="42.944145" y="200.81525" fill="#000000" font-family="sans-serif" font-size="43.197px" letter-spacing="0px" stroke-width=".30076" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="42.944145" y="200.81525" font-family="Selectric" stroke-width=".30076" style="line-height:2.25">enabili</tspan></text>
     </g>
 </svg>
-
-
-
-<!-- <h2>Posts</h2> -->
-<!-- $partial("templates/post-list.html")$ -->
