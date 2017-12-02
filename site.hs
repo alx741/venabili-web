@@ -14,13 +14,17 @@ main = hakyll $ do
 
     match "js/*" $ do
         route   idRoute
-        compile compressCssCompiler
+        compile copyFileCompiler
+
+    match "fonts/*" $ do
+        route   idRoute
+        compile copyFileCompiler
 
     match "bower_components/**" $ do
         route   idRoute
-        compile compressCssCompiler
+        compile copyFileCompiler
 
-    match (fromList ["about.rst", "contact.markdown"]) $ do
+    match (fromList ["about.rst"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext

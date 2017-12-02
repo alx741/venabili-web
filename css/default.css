@@ -1,16 +1,19 @@
-body {
+body, html {
     color: black;
     background-color: #fff;
     margin: 0px auto 0px auto;
     width: 100%;
+    min-height: 100%;
+    font-family: selectric;
 }
 
 #logo
 {
     display: block;
     margin: 0 auto;
-    max-width: 600px;
+    max-width: 500px;
     padding-right: 50px;
+    font-family: selectric;
 }
 
 #logo-v
@@ -25,11 +28,12 @@ body {
     margin-top: 50px;
     text-align: center;
     font-size: 2.3em;
+    font-family: selectric;
 }
 
 #description-typed
 {
-    color: #444;
+    color: #333;
 }
 
 @keyframes v-draw
@@ -56,11 +60,17 @@ footer {
     font-size: 12px;
     margin-top: 30px;
     padding: 12px 0px 12px 0px;
-    text-align: right;
+    text-align: center;
 }
 
 article .header {
     color: #555;
     font-size: 14px;
     font-style: italic;
+}
+
+@font-face{
+    font-family: "selectric";
+    src: url('/fonts/selectric.ttf'),
+    url('/fonts/selectric.ttf');
 }
