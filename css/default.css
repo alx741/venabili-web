@@ -4,7 +4,7 @@ body, html {
     margin: 0px auto 0px auto;
     width: 100%;
     min-height: 100%;
-    font-family: selectric;
+    font-family: selectric-custom;
 }
 
 #logo
@@ -13,7 +13,7 @@ body, html {
     margin: 0 auto;
     max-width: 500px;
     padding-right: 50px;
-    font-family: selectric;
+    font-family: selectric-custom;
 }
 
 #logo-v
@@ -34,7 +34,7 @@ body, html {
     margin-top: 50px;
     text-align: center;
     font-size: 2.3em;
-    font-family: selectric;
+    font-family: selectric-custom;
 }
 
 .typed-cursor {
@@ -94,7 +94,7 @@ article .header {
 }
 
 @font-face{
-    font-family: "selectric";
-    src: url('/fonts/selectric.ttf'),
-    url('/fonts/selectric.ttf');
+    font-family: "selectric-custom";
+    src: url('/fonts/selectric-custom.ttf'),
+    url('/fonts/selectric-custom.ttf');
 }
