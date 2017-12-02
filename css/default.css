@@ -7,8 +7,9 @@ body {
 
 #logo
 {
-    margin: 30px;
-    max-width: 1000px;
+    display: block;
+    margin: 0 auto;
+    max-width: 500px;
 }
 
 #logo-v
@@ -16,6 +17,12 @@ body {
     stroke-dasharray: 1000;
     stroke-dashoffset: 1000;
     animation: v-draw 5s forwards;
+}
+
+#description
+{
+    margin-top: 30px;
+    text-align: center;
 }
 
 @keyframes v-draw
