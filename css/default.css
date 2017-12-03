@@ -75,9 +75,48 @@ p, a, h1, h2, h3, h4, h5, h6 {
     }
 }
 
+blockquote {
+    font-family: selectric-custom;
+    font-size: 1.3em;
+    font-style: italic;
+    line-height: 1.2;
+    margin: 0.25em 0;
+    padding: 0.35em 40px;
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+}
+
+blockquote:before {
+    color: #7a7a7a;
+    content: "\201C";
+    display: block;
+    font-family: Georgia, serif;
+    font-size: 80px;
+    left: -20px;
+    padding-left: 10px;
+    position: absolute;
+    top: -20px;
+}
+
+blockquote cite {
+    display: block;
+    font-size: 15px;
+    text-align: right;
+}
+
+blockquote cite:before {
+    content: "\2014 \2009";
+}
+
+
 #main {
     max-width: 60%;
     margin: 0 auto;
+}
+
+section {
+    margin-top: 50px;
 }
 
 a:link, a:visited, a:active
