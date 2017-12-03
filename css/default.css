@@ -1,5 +1,5 @@
 body, html {
-    color: #333;
+    color: #444;
     background-color: #fff;
     margin: 0px auto 0px auto;
     width: 100%;
@@ -7,7 +7,8 @@ body, html {
     font-family: selectric-custom;
 }
 
-p, h1, h2, h3, h4, h5, h6 {
+p, a, h1, h2, h3, h4, h5, h6 {
+    color: #444;
     font-family: selectric-custom;
 }
 
@@ -81,14 +82,12 @@ p, h1, h2, h3, h4, h5, h6 {
 
 a:link, a:visited, a:active
 {
-    color: black;
     text-decoration: underline;
 }
 
 a:hover
 {
     color: black;
-    font-weight: bold;
 }
 
 nav {
@@ -96,7 +95,6 @@ nav {
 }
 
 nav a {
-    color: black;
     font-size: 13px;
     margin-left: 12px;
     text-decoration: none;
