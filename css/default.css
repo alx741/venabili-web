@@ -131,6 +131,8 @@ blockquote:before {
 blockquote cite {
     display: block;
     font-size: 15px;
+    margin-top: 10px;
+    margin-right: 35px;
     text-align: right;
 }
 
