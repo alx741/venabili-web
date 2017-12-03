@@ -21,6 +21,12 @@ p, a, h1, h2, h3, h4, h5, h6 {
     font-family: selectric-custom;
 }
 
+@media only screen and (max-width: 500px) {
+    #logo {
+        padding: 20px;
+    }
+}
+
 #logo-v
 {
     stroke-dasharray: 1000;
@@ -35,11 +41,20 @@ p, a, h1, h2, h3, h4, h5, h6 {
 
 #description
 {
+    margin: 0 20px;
     margin-top: 40px;
     text-align: center;
     font-size: 2.3em;
     font-family: selectric-custom;
 }
+
+@media only screen and (max-width: 500px) {
+    #description {
+        font-size: 1.3em;
+        margin-bottom: 20px;
+    }
+}
+
 
 .typed-cursor {
     opacity: 1;
@@ -66,6 +81,12 @@ p, a, h1, h2, h3, h4, h5, h6 {
     animation: fadein 3s forwards;
 }
 
+@media only screen and (max-width: 500px) {
+    #keyboard {
+        max-width: 100%;
+    }
+}
+
 @keyframes fadein {
     0% {
         opacity: 0;
@@ -86,6 +107,14 @@ blockquote {
     width: 100%;
     margin-top: 20px;
 }
+
+@media only screen and (max-width: 500px) {
+    blockquote {
+        font-size: 1em;
+        width: 75%;
+    }
+}
+
 
 blockquote:before {
     color: #7a7a7a;
@@ -113,6 +142,12 @@ blockquote cite:before {
 #main {
     max-width: 60%;
     margin: 0 auto;
+}
+
+@media only screen and (max-width: 500px) {
+    #main {
+        max-width: 90%;
+    }
 }
 
 section {
@@ -153,6 +188,12 @@ footer {
     margin-top: 30px;
     padding: 12px 0px 12px 0px;
     text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+    footer {
+        padding: 20px;
+    }
 }
 
 article .header {
