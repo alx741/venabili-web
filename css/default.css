@@ -7,6 +7,10 @@ body, html {
     font-family: selectric-custom;
 }
 
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: selectric-custom;
+}
+
 #logo
 {
     display: block;
@@ -68,6 +72,11 @@ body, html {
     100% {
         opacity: 1;
     }
+}
+
+#main {
+    max-width: 60%;
+    margin: 0 auto;
 }
 
 a:link, a:visited, a:active
