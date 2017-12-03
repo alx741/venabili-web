@@ -225,5 +225,6 @@ article .header {
 @font-face{
     font-family: "selectric-custom";
     src: url('/fonts/selectric-custom.ttf'),
-    url('/fonts/selectric-custom.ttf');
+         url('/venabili-web/fonts/selectric-custom.ttf'),
+         url('/docs/fonts/selectric-custom.ttf');
 }
