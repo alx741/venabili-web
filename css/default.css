@@ -91,14 +91,20 @@ a:hover
 }
 
 nav {
+    margin-right: 20px;
     text-align: right;
 }
 
-nav a {
+nav a:link {
     font-size: 13px;
     margin-left: 12px;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+nav a:hover {
+    color: black;
+    text-decoration: underline;
 }
 
 footer {
