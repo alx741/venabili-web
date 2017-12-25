@@ -1,6 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
-import           Hakyll
+import Data.Monoid (mappend)
+import Data.Monoid
+import Hakyll
 
 main :: IO ()
 main = hakyllWith config $ do
@@ -27,12 +28,7 @@ main = hakyllWith config $ do
     match "index.html" $ do
         route idRoute
         compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
-            let indexCtx =
-                    listField "posts" postCtx (return posts) `mappend`
-                    constField "title" "Venabili Keyboard"                `mappend`
-                    defaultContext
-
+            let indexCtx = constField "title" "Venabili Keyboard" <> defaultContext
             getResourceBody
                 >>= applyAsTemplate indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
@@ -40,11 +36,6 @@ main = hakyllWith config $ do
 
     match "templates/*" $ compile templateBodyCompiler
 
-
-postCtx :: Context String
-postCtx =
-    dateField "date" "%B %e, %Y" `mappend`
-    defaultContext
 
 config :: Configuration
 config = defaultConfiguration { destinationDirectory = "docs" }
