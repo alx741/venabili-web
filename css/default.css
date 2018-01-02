@@ -162,6 +162,7 @@ blockquote cite:before {
 #main {
     max-width: 60%;
     margin: 0 auto;
+    font-size: 1.1em;
 }
 
 @media only screen and (max-width: 1100px) {
@@ -203,7 +204,7 @@ nav a:hover {
 
 footer {
     border-top: solid 1px #eee;
-    color: #555;
+    color: #444;
     font-size: 12px;
     margin-top: 30px;
     padding: 12px 0px 12px 0px;
@@ -217,7 +218,7 @@ footer {
 }
 
 article .header {
-    color: #555;
+    color: #444;
     font-size: 14px;
     font-style: italic;
 }
