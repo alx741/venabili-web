@@ -17,6 +17,8 @@ p, a, h1, h2, h3, h4, h5, h6 {
 {
     display: block;
     margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
     max-width: 500px;
     padding-right: 50px;
     font-family: selectric-custom;
@@ -43,7 +45,8 @@ p, a, h1, h2, h3, h4, h5, h6 {
 #description
 {
     margin: 0 20px;
-    margin-top: 40px;
+    margin-top: 35px;
+    margin-bottom: 25px;
     text-align: center;
     font-size: 2.3em;
     font-family: selectric-custom;
