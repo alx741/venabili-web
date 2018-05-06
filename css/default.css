@@ -226,7 +226,15 @@ article .header {
 
 @font-face{
     font-family: "selectric-custom";
-    src: url('/fonts/selectric-custom.ttf'),
+    src: url('selectric-custom-webfont.woff2') format('woff2'),
+         url('/fonts/selectric-custom-webfont.woff2') format('woff2'),
+         url('/venabili-web/fonts/selectric-custom-webfont.woff2') format('woff2'),
+         url('selectric-custom-webfont.woff') format('woff'),
+         url('/fonts/selectric-custom-webfont.woff') format('woff'),
+         url('/venabili-web/fonts/selectric-custom-webfont.woff') format('woff'),
+         url('/fonts/selectric-custom.ttf'),
          url('/venabili-web/fonts/selectric-custom.ttf'),
          url('/docs/fonts/selectric-custom.ttf');
+    font-weight: normal;
+    font-style: normal;
 }
