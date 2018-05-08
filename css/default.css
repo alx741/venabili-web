@@ -221,10 +221,12 @@ footer {
     }
 }
 
-article .header {
+section header {
     color: #444;
     font-size: 14px;
+    letter-spacing: 3px;
     font-style: italic;
+    margin-bottom: -15px;
 }
 
 @font-face{
