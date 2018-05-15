@@ -1,228 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="265mm" height="120mm" version="1.1" viewBox="0 0 265 120" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(0,-177)">
-        <g>
-            <g transform="rotate(10 -196.13 -55.864)">
-                <g transform="translate(43.392 -9.0169)">
+<svg id="keyboard" width="277.89mm" height="110.13mm" version="1.1" viewBox="0 0 277.89 110.13" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(6.6854 -5.8188)">
+        <g transform="translate(31.459 -319.34)">
+            <g transform="matrix(-.97815 .20791 .20791 .97815 -77.323 376.91)">
+                <g transform="translate(-324.14 -153.45)">
+                    <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
+                    <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
+                </g>
+                <g transform="translate(-324.14 -135.35)">
+                    <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
+                    <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
+                </g>
+                <g transform="translate(-324.14 -117.25)">
+                    <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
+                    <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
+                </g>
+                <g transform="translate(-324.14 -99.146)">
+                    <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
+                    <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
+                </g>
+                <g transform="translate(-327.93 -139.57)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
-                <g transform="translate(25.292 -4.1158)">
+                <g transform="translate(-346.03 -136.17)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
-                <g transform="translate(7.1917 .78528)">
+                <g transform="translate(-364.13 -132.76)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
-                <g transform="translate(-10.908 5.6864)">
+                <g transform="translate(-291.73 -139.57)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
-                <g transform="translate(61.492 -4.1158)">
+                <g transform="translate(-273.63 -136.17)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
-                    </g>
-                </g>
-                <g transform="translate(79.592 .78528)">
-                    <g transform="translate(-14.309 -10.474)">
-                        <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
-                    </g>
-                    <g transform="translate(-14.309 7.6262)">
-                        <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
-                    </g>
-                    <g transform="translate(-14.309 25.726)">
-                        <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
-                    </g>
-                    <g transform="translate(-14.309 43.826)">
-                        <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
             </g>
-            <g transform="matrix(-.98481 .17365 .17365 .98481 277.2 33.209)">
-                <g transform="translate(43.392 -9.0169)">
+            <g transform="rotate(12 -1653.6 1515.3)">
+                <g transform="translate(-324.14 -153.45)">
+                    <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
+                    <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
+                </g>
+                <g transform="translate(-324.14 -135.35)">
+                    <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
+                    <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
+                </g>
+                <g transform="translate(-324.14 -117.25)">
+                    <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
+                    <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
+                </g>
+                <g transform="translate(-324.14 -99.146)">
+                    <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
+                    <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
+                </g>
+                <g transform="translate(-327.93 -139.57)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
-                <g transform="translate(25.292 -4.1158)">
+                <g transform="translate(-346.03 -136.17)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
-                <g transform="translate(7.1917 .78528)">
+                <g transform="translate(-364.13 -132.76)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
-                <g transform="translate(-10.908 5.6864)">
+                <g transform="translate(-291.73 -139.57)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
-                <g transform="translate(61.492 -4.1158)">
+                <g transform="translate(-273.63 -136.17)">
                     <g transform="translate(-14.309 -10.474)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 7.6262)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 25.726)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                     <g transform="translate(-14.309 43.826)">
                         <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
-                    </g>
-                </g>
-                <g transform="translate(79.592 .78528)">
-                    <g transform="translate(-14.309 -10.474)">
-                        <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
-                    </g>
-                    <g transform="translate(-14.309 7.6262)">
-                        <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
-                    </g>
-                    <g transform="translate(-14.309 25.726)">
-                        <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
-                    </g>
-                    <g transform="translate(-14.309 43.826)">
-                        <rect x="89.691" y="162.09" width="17.901" height="17.901" rx=".65319" ry=".65319" fill="#ececec" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1989"/>
-                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff"/>
+                        <rect x="92.525" y="163.11" width="12.234" height="12.234" rx=".69032" ry=".69032" fill="#fff" class='key'/>
                     </g>
                 </g>
             </g>
-            <rect x="8.5239" y="187.67" width="247.47" height="100.43" rx="1.4304" ry="1.4304" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width=".48762"/>
         </g>
+        <path d="m15.612 11.208-17.06 79.592 111.18 19.953h45.067l111.17-19.952-17.094-79.784z" fill="none" stroke="#7e7e7e" stroke-width=".39687"/>
     </g>
 </svg>
